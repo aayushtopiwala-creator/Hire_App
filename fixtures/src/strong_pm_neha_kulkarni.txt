@@ -1,0 +1,35 @@
+Neha Kulkarni
+Product Manager · Mumbai
+neha.kulkarni.test@example.com · +91 98200 11223 · linkedin.com/in/neha-kulkarni-test
+
+SUMMARY
+Product manager who started on the operations floor of a freight forwarder. I ship small, measure honestly, and kill what customers don't use — then write down why. I'm most useful in rooms where the process is still on WhatsApp and Excel.
+
+EXPERIENCE
+
+Product Manager — Dockline (freight visibility SaaS, seed to Series A), Mumbai
+Jan 2023 – Present (2 yrs 9 mos)
+- First PM hire. Owned the roadmap for shipment tracking and document checklists used by 140 forwarder ops teams.
+- Shipped an automated Bill of Lading draft-check that cut amendment requests by 31% within one quarter.
+- Killed our "ETA confidence score" after 6 weeks: only 4% of users opened it and ops leads told us they trusted carrier emails more. Redirected the two engineers to the customs-hold alert, which reached 62% weekly active use.
+- Spent two days a month sitting with customer ops teams at Nhava Sheva CFS yards to watch how exceptions actually get handled.
+- Set up the team's first prioritisation doc and a fortnightly "what we stopped doing" review.
+
+Operations Executive, Documentation & Customs — Seabridge Forwarding Pvt Ltd, Mumbai
+Jun 2020 – Dec 2022 (2 yrs 7 mos)
+- Prepared and checked Bills of Lading, Shipping Bills and Certificates of Origin for ~60 export shipments a month.
+- Coordinated daily with shipping lines, the CHA team and JNPT terminal staff to clear customs holds; handled Let Export Order follow-ups.
+- Built a shared Google Sheet tracker for container cut-offs that the branch still uses.
+
+EDUCATION
+B.E. Mechanical Engineering, Veermata Jijabai Technological Institute (VJTI), Mumbai — 2020
+
+CERTIFICATIONS
+Certificate in Freight Forwarding, FFFAI (2021)
+
+WHAT OTHERS SAY
+"Neha is the only PM I've worked with who can walk into a CFS yard and come back with a spec the engineers don't argue with."
+— Rahul Menon, Engineering Lead, Dockline
+
+TALKS
+Spoke at ProductLogistics Meetup Mumbai 2024: "Why your forwarder customers ignore dashboards".

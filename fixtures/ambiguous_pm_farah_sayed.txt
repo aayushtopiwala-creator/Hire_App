@@ -1,0 +1,29 @@
+FARAH SAYED | Product Manager
+Pune · farah.sayed.test@example.com · (022) 2345 6789
+Portfolio: https://farahsayed-test.example.com
+
+About me
+I like problems where the users are busier than the software. Four years in product, the last two at a logistics software company.
+
+Experience
+
+Product Manager — RouteMatrix (fleet & dispatch SaaS for 3PLs), Pune | Aug 2023 – Present
+- Own the driver app and dispatcher console used by ~35 3PL customers.
+- Shipped offline mode for the driver app; delivery-proof upload failures dropped from 9% to 2%.
+- Ran a post-mortem after our route-optimisation pilot with a large 3PL was cancelled; we learned our model ignored loading-bay slot times, and we now validate with a customer dispatcher before any pilot.
+- Work with sales on integration requests (mostly TMS and GPS vendors).
+
+Product Manager — Learnly (edtech), Pune | Jun 2022 – Jul 2023
+- Owned the assignments module for 200k students; improved submission completion by 14%.
+
+Associate Product Manager — Learnly (edtech), Pune | Jan 2021 – May 2022
+- Wrote PRDs, ran user interviews, managed the release calendar.
+
+Supply Chain Intern — Allcargo Logistics, Mumbai | May 2019 – Jul 2019
+- Summer internship: supported the warehouse planning team with daily inbound reports.
+
+Education
+B.Com, Symbiosis College of Arts and Commerce, Pune — 2020
+
+Other
+Writes occasionally about product on her personal blog.

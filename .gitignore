@@ -1,0 +1,16 @@
+node_modules
+.next
+.env.local
+.env*.local
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+# Real people's data — never commit.
+applications/
+hires/
+# Names current employees with their performance ratings. The app reads the rubric from Supabase
+# (rubric_versions); this file only seeds it, from the machine that holds it.
+rubric.txt
+# Local tool output
+playwright-report/

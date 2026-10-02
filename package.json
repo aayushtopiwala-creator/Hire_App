@@ -1,0 +1,46 @@
+{
+  "name": "kargo-hiring-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "db:migrate": "tsx scripts/migrate.ts",
+    "fixtures": "tsx scripts/make-fixtures.ts",
+    "test:unit": "tsx --test tests/*.test.ts",
+    "test:phase1": "tsx scripts/test-phase1.ts",
+    "test:phase2": "tsx scripts/test-phase2.ts",
+    "test:phase3": "tsx scripts/test-phase3.ts",
+    "test:phase5": "tsx scripts/test-phase5.ts",
+    "ingest:folder": "tsx scripts/ingest-folder.ts",
+    "score:confirmed": "tsx scripts/score-confirmed.ts",
+    "draft:all": "tsx scripts/draft-all.ts",
+    "auth:create-user": "tsx scripts/create-auth-user.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.117.2",
+    "mammoth": "^1.13.0",
+    "next": "^16.3.7",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "resend": "^6.31.0",
+    "unpdf": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "dotenv": "^18.0.4",
+    "pdf-lib": "^1.17.1",
+    "pg": "^8.23.0",
+    "playwright-core": "^1.63.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "type": "module"
+}
